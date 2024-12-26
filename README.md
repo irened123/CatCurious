@@ -6,7 +6,7 @@ The **CatCurious API** is a Flask-based RESTful API designed for cat enthusiasts
 ---
 
 ## Acknowledgment
-This repository is a **forked version of a collaborative project** originally developed by **me, Jay Patel**, and **Letitia Caspersen** for Boston University's CS411 Software Engineering course. The original repository can be found [here](#https://github.com/tenjx10/CatCurious).
+This repository is a **forked version of a collaborative project** originally developed by **me, Jay Patel**, and **Letitia Caspersen** for Boston University's CS411 Software Engineering course. The original repository can be found [here](https://github.com/tenjx10/CatCurious).
 
 ---
 
